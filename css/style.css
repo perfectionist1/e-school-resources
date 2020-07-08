@@ -1,0 +1,98 @@
+/*
+************************************************************
+*** Some default and headerMenu & Banner Styling Starts ***
+************************************************************
+*/
+.body{
+    font-family: 'Poppins', sans-serif;
+}
+.header-menu-and-banner{
+    background-color: rgba(175, 235, 163, 0.288)
+}
+.header-menu-image img{
+    width: 160px;
+    
+}
+.rounded-button-style{
+    padding-right: 25px;
+    padding-left: 25px;
+    background-color: #21B573;
+}
+
+.styled-font{
+    color: #21B573;
+    
+}
+.para-red {
+    color: red;
+}
+.para-gray{
+    /* color: gray; */
+}
+.line-height{
+    line-height: 215%;
+}
+.banner-section-heading h1{
+    font-weight: 700;
+}
+
+/*
+***************************************************
+*** Topic/Student/Token Section Styling Starts ***
+***************************************************
+*/
+
+.card{
+    background-color:rgba(133, 214, 117, 0.07);
+    border: none;
+    border-radius: 8px;
+}
+.topic-picture img{
+    width: 40%;
+
+}
+.topic-text-align{
+    text-align: center;
+}
+.styled-card{
+    background-color: white;
+    box-shadow:  1px 8px 15px gray;
+}
+
+/*
+*********************************************
+*** Online Course Section Styling Starts ***
+*********************************************
+*/
+
+.online-course-bg-color-white{
+    background-color: white;
+}
+.online-course-box-shadow{
+    box-shadow:  1px 8px 15px gray;
+    border-radius: 10px;
+}
+.online-course h3{
+    font-weight: 700;
+}
+.online-course-pic img{
+    width: 90%;
+}
+
+.online-course-style p{
+    font-size: 13px;
+    color: gray;
+    font-weight: 700;
+}
+.online-course-style img{
+    max-width: 12%;
+}
+
+/*
+*********************************************
+*** Testimonial Section Styling Starts ***
+*********************************************
+*/
+.testimonial h3{
+    font-weight: 700;
+}
